@@ -3,16 +3,3 @@ header{
   text-align: center;
   background-image: image(IMG_1426.JPG);
 }
-header h1{
-  font-weight: normal;
-  color:black;
-}
-.header-instagram{
-  background-color: #008000;
-  color: white ;
-  display:inline-block;
-}
-.main{
-  height:500px;
-  background-color:blue;
-}
