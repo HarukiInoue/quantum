@@ -15,5 +15,35 @@ body{
   color:#008080;
   text-align: center;
 }
+.header-letters{
+  padding-top:60px;
+  padding-bottom: 60px;
+}
 .header-letters a{
+}
+.main{
+  border-top:2px solid black;
+  text-align: center;
+  font-family: serif;
+  padding-bottom: 30px;
+}
+.contact{
+  border-top:2px solid black;
+  text-align: center;
+  font-family: serif;
+}
+input,textarea{
+  width:400px;
+  margin-top:5px;
+  margin-bottom:20px;
+  padding:20px;
+  font-size:18px;
+  border:1px solid #dee7ec;
+}
+.contact-submit{
+  background-color:#dee7ec;
+  color:#889eab;
+}
+.pad{
+  padding:15px 0
 }
