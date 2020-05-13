@@ -1,5 +1,19 @@
-header{
-  height: 300px;
+body{
+  margin:0;
+}
+.header-letter{
+  opacity: 0.8;
+  background-color: #008080;
+  color:#FFFFCC;
+  margin:0;
+  padding:20px 40px;
+  position: fixed;
+  z-index: 10;
+}
+.header-letters{
+  background-color: #FFFFCC;
+  color:#008080;
   text-align: center;
-  background-image: image(IMG_1426.JPG);
+}
+.header-letters a{
 }
